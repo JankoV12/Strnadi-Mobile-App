@@ -53,3 +53,7 @@ assets/secrets.json
 sentry.properties
 
 android/gradle.properties
+
+assets/firebase-secrets.json
+
+strnadi-release-key.jks
